@@ -6,7 +6,6 @@ It's not designed with efficency in mind, It's intended as a quick way to visual
   * the data field is an integer
   * non complete trees are allowed
  
- Feel free to use this code however you want
  
 ## Sample output
 
