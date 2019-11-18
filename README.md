@@ -1,7 +1,7 @@
 # drawBinaryTree
 
 This is a short C pogram that prints a binary tree.
-It's not designed with efficency in mind, It's intended as a quick way to visualize examples while studying. 
+It's not designed with efficency in mind, it's intended as a quick way to visualize examples while studying. 
 
   * the data field is an integer
   * non complete trees are allowed
